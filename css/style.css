@@ -1,0 +1,99 @@
+/* Imagine Fatta per 1920 1080 pixel */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 100%;
+  width: 1920;
+  font-size: 1.3rem;
+  background: #f2f2f2;
+  line-height: 1.65;
+}
+dt {
+  display: inline;
+}
+
+.center {
+  text-align: center;
+}
+header img {
+  width: 150px;
+}
+header img,
+dl {
+  padding-left: 20px;
+}
+dl {
+  margin-top: -1px;
+}
+dt {
+  padding: 5px;
+}
+header .bglogo {
+  background: #222f3e;
+  width: 250px;
+
+  padding-right: 1614px;
+  background-origin: border-box;
+}
+
+.bgorange {
+  color: #eaeaea;
+  background: #f56600;
+}
+.bgnav {
+  background: #37475a;
+  color: #eaeaea;
+}
+.py-1 {
+  padding: 1rem 0;
+}
+
+a:visited,
+a:link {
+  color: #eaeaea;
+}
+main {
+  margin: 30px;
+}
+
+aside {
+  background: url(../assets/bg-image.png);
+  color: #eaeaea;
+  padding: 50px;
+  font-weight: bold;
+  background-size: contain;
+}
+.logobottom {
+  background: #222f3e;
+  width: 250px;
+  padding: 50px 807px;
+  background-origin: border-box;
+}
+span {
+  color: blue;
+  font-size: 1rem;
+}
+h1 {
+  font-size: 2.5rem;
+}
+main div {
+  border: 1px solid;
+  background: white;
+}
+main div h2 {
+  padding: 15px;
+}
+main div img {
+  width: 416px;
+  height: 300px;
+  padding: 15px;
+}
+span {
+  padding-left: 10px;
+}
+article img {
+  width: 100%;
+}
+h2 {
+  font-weight: 500;
+}
